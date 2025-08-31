@@ -1,0 +1,2 @@
+# Safe-GPT2
+ Safe-GPT2 is a project focused on fine-tuning GPT2-medium to generate safe and ethically aligned responses, especially for harmful or stereotypic prompts. It implements Reinforcement Learning from Human Feedback (RLHF) using Proximal Policy Optimization (PPO) and Direct Preference Optimization (DPO) to improve response quality and alignment with human preferences. The repository includes reward model training, fine-tuning scripts and evaluation metrics for comparison of both approaches.
